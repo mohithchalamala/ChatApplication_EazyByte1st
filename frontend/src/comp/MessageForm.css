@@ -1,0 +1,30 @@
+.messages-output{
+    height: 80vh;
+    width: 60vw;
+    border: 1px solid lightgray;
+    overflow-y: scroll;
+    margin-bottom: 20px;
+}
+.message-inner{
+    margin-left:20px;
+    margin-bottom: 10px;
+    padding: 10px;
+    min-width: 200px;
+    max-width: 90%;
+    text-align: left;
+    min-height: 80px;
+    font:400 1em sans-serif;
+    display: inline-block;
+    border-radius: 10px;
+    background-color: #d1e7dd;
+}
+.incoming-message .message-inner{
+    background-color: #ffdab9;
+
+}
+
+.incoming-message{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 20px;
+}

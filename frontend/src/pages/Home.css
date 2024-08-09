@@ -1,0 +1,13 @@
+.home__bg{
+    background-image: url(https://as2.ftcdn.net/v2/jpg/02/69/96/25/1000_F_269962547_r4GzQ10mInT29AsYypcGg380Ww5E0wUi.jpg);
+    height: 92vh;
+    background-position:center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}
+
+.home-message-icon{
+    margin-left:10px ;
+    display: inline-block;
+}

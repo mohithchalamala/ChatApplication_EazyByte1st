@@ -1,0 +1,8 @@
+.login__bg{
+    background-image: url(https://img.freepik.com/premium-vector/smartphone-hand-using-chat-software-vector-illustration_223337-33919.jpg?w=740);
+    height: 92vh;
+    background-position:center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}
